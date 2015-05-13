@@ -1,0 +1,3 @@
+My reflections 2
+Q - What happens when you initialize a repository? Why do you need to do it?
+A - it creates a repository and starts tracking the files.
