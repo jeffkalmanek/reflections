@@ -1,3 +1,5 @@
 My reflections 2
 Q - What happens when you initialize a repository? Why do you need to do it?
 A - it creates a repository and starts tracking the files.
+Q - How is the staging area different from the working directory and the repository? What value do you think it offers?
+A - the staging area contains the files that will be committed.  The value it offers is to control which files are part of the logical change.
