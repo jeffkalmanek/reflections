@@ -1,3 +1,5 @@
 My reflections 2
 Q - What happens when you initialize a repository? Why do you need to do it?
 A - it creates a repository and starts tracking the files.
+
+Here I am adding things to change and see how the commits are tracked for the files.  I think it will just track two separate files.  Let's see what happens.
