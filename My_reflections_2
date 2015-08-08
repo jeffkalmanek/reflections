@@ -39,4 +39,7 @@ A - they show how the branches and commits connect to each other.
 
 Q - What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 A - auto merge is good in that it completes the operation without effort.  But bad if there is an ambiguous change.  Manuel is good to resolve ambiguity, especialy when created by two different people.
+Q - What is the benefit of having a copy of the last known state of the remote stored locally?
+A - then you kno the state of the remote copy of the code
+
 
