@@ -41,5 +41,7 @@ Q - What are the pros and cons of Git’s automatic merging vs. always doing mer
 A - auto merge is good in that it completes the operation without effort.  But bad if there is an ambiguous change.  Manuel is good to resolve ambiguity, especialy when created by two different people.
 Q - What is the benefit of having a copy of the last known state of the remote stored locally?
 A - then you kno the state of the remote copy of the code
+Q - How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A - you could collaborate by giving a copy of the file.  It would be easier to track your own changes, but harder to merge the changes from someone else and track those.
 
 
